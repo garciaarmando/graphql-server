@@ -1,0 +1,23 @@
+{
+    "persons": [{
+            "name": "Chipo",
+            "phone": "5559478257",
+            "street": "Av. Pablo Neruda",
+            "city": "Guadalajara",
+            "id": "2f0e9995-6ef1-4b12-a262-4880cf00dd99"
+        },
+        {
+            "name": "Fili",
+            "phone": "3339102389",
+            "street": "Bahamas",
+            "city": "Guadalajara",
+            "id": "1107727d-0b86-477c-90c8-2c26ce4da0e6"
+        },
+        {
+            "name": "Minus",
+            "street": "Carril",
+            "city": "México",
+            "id": "180759245-eb1a-47eb-98e3-7b6c73c15ac6"
+        }
+    ]
+}
